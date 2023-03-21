@@ -34,6 +34,10 @@ Our API is available at https://decorationDiyAPI.net/v1 , and responses are sent
 
 ##### Example of API call & response
 
+<img><img width="1080" alt="Pasted Graphic 3" src="https://user-images.githubusercontent.com/103580674/226640467-f3840532-b3ce-49ce-820d-5f57e834ee5d.png">
+</img>
+
+
 
 #### Get all user's project
 
@@ -47,6 +51,11 @@ Our API is available at https://decorationDiyAPI.net/v1 , and responses are sent
 
 ##### Example of API call & response
 
+<img><img width="1164" alt="Pasted Graphic 11" src="https://user-images.githubusercontent.com/103580674/226640852-adc73280-34dd-4cfe-bbf6-778c345addca.png">
+</img>
+
+
+
 #### Create user
 
 ```http
@@ -58,6 +67,11 @@ Our API is available at https://decorationDiyAPI.net/v1 , and responses are sent
 | `None` | `None` | `None` |
 
 ##### Example of API call & response
+
+<img><img width="1082" alt="Pasted Graphic" src="https://user-images.githubusercontent.com/103580674/226641171-9fde9075-38bf-43b8-8feb-5b70355c37c6.png">
+</img>
+
+
 
 #### Update user
 
@@ -71,6 +85,10 @@ Our API is available at https://decorationDiyAPI.net/v1 , and responses are sent
 
 ##### Example of API call & response
 
+<img><img width="1088" alt="Pasted Graphic 5" src="https://user-images.githubusercontent.com/103580674/226641395-9084a774-65a4-4344-a40c-40e1dbdf7fc6.png">
+</img>
+
+
 
 #### Delete user
 
@@ -82,7 +100,6 @@ Our API is available at https://decorationDiyAPI.net/v1 , and responses are sent
 | :-------- | :------- | :------------------------- |
 | `id` | `String` | **Required** |
 
-##### Example of API call & response
 
 #### Upload & update user's picture
 
@@ -122,6 +139,11 @@ Our API is available at https://decorationDiyAPI.net/v1 , and responses are sent
 
 ##### Example of API call & response
 
+<img><img width="1186" alt="image" src="https://user-images.githubusercontent.com/103580674/226641771-9a7e342e-bf94-4167-b44b-563aa5c5ed64.png">
+</img>
+
+
+
 #### Create project
 
 ```http
@@ -133,6 +155,11 @@ Our API is available at https://decorationDiyAPI.net/v1 , and responses are sent
 | `None` | `None` | `None` |
 
 ##### Example of API call & response
+
+<img><img width="1082" alt="Pasted Graphic 7" src="https://user-images.githubusercontent.com/103580674/226642237-77289d8e-b51b-4838-823f-53dfe099342d.png">
+</img>
+
+
 
 #### Update project
 
@@ -146,6 +173,10 @@ Our API is available at https://decorationDiyAPI.net/v1 , and responses are sent
 
 ##### Example of API call & response
 
+<img><img width="1081" alt="Pasted Graphic 10" src="https://user-images.githubusercontent.com/103580674/226642447-7b535634-b692-4621-84b2-bc90a552d036.png">
+</img>
+
+
 
 #### Delete project
 
@@ -157,7 +188,6 @@ Our API is available at https://decorationDiyAPI.net/v1 , and responses are sent
 | :-------- | :------- | :------------------------- |
 | `id` | `String` | **Required** |
 
-##### Example of API call & response
 
 #### Upload & update project's image
 
