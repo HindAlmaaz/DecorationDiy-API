@@ -8,7 +8,7 @@ Whether you're a seasoned DIY expert or just starting out, our API has something
 
 
 ## Getting started
-Our API is available at https://decorationDiyAPI.net/v1 , and responses are sent as JSON
+Our API is available at  https://decorationdiy-api.herokuapp.com/v1 , and responses are sent as JSON
 
 ## API Reference
 
